@@ -4,7 +4,7 @@ Myblacklist old est un système de Blacklist Ip qui ampère les Ip que vous avez
 
 # Installation 
 1. Télécharger le .zip
-2. Installer le suis un serveur web
+2. Installer le sur un serveur web
 3. Ajouter ceci en haut de vos pages que vous voulez protéger : 	
 ```
 <?php
