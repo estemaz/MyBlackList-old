@@ -1,4 +1,4 @@
-# MyBlackList-old (aucun support et aucune mises a jours)
+# MyBlackList-old (aucun support et mises a jours peu fréquentes)
 
 Myblacklist old est un système de Blacklist Ip qui ampère les Ip que vous avez blacklist d'accéder à votre site.
 
