@@ -6,7 +6,7 @@ if ($_SERVER['REMOTE_ADDR'] == $IP ) {
 }
 else
 {
- $P = "8";
+ $IP = "8";
  $_SESSION['Vl'] = '246154631562562364565';
  header( "refresh:3;url=page.php" );
 }
