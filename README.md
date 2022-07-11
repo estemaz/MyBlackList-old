@@ -21,3 +21,6 @@ if(isset($_SESSION['IP']) AND $_SERVER['REMOTE_ADDR'] == $_SESSION['IP'] or $_SE
 ?>
 ```
 4. Allez dans "ip.php" et ajouter les ip blacklist
+
+# Support
+https://discord.gg/esdq2FAPEz
